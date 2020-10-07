@@ -11,7 +11,8 @@ Establish a fair distribution mechanism to encourage the members of the communit
 EAB is one of the least feasible monetary experiments. EAB tokens will be worth zero when they are initially launched. After development, the value of the token will depend entirely on EAB holders and future trends. EAB uses a branch of the composite governance module, which will ensure that all updates to the EAB protocol occur entirely along the chain through community voting. Immediately after the launch, ownership of each EAB agreement will be transferred to EAB holders.
 
 Smart Contract Audit
-EAB Contract Addres :THSjCwmYVeK1oLR3TdnXhP7vcU9xVssR3m
+
+EABContract Addres :THSjCwmYVeK1oLR3TdnXhP7vcU9xVssR3m
 
 USDTLP_POOL：TA51f8i4exnCp6Q3LnAVFjT8YT7vWhM2zU
 
